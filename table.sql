@@ -1,0 +1,1 @@
+update account SET balnce=100000 where userid=3;
