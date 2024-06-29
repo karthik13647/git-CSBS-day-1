@@ -1,1 +1,1 @@
-update account SET balnce=100000 where userid=3;
+update account SET balance=100000 where userid=3;
